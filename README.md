@@ -1,7 +1,7 @@
 # Character Count Analyzer
 This is a simple app built with `D3.JS` that displays the `character count` of a phrase in the form of a graph
 
-The app can also be found on [Codepen](https://codepen.io/bmuthoga/pen/NWPpdEP) or [CodeSandbox](https://codesandbox.io/s/github/bmuthoga/d3-character-count-analyzer)
+The app can also be found here on [Codepen](https://codepen.io/bmuthoga/pen/NWPpdEP)
 
 Here's how the app looks like:
 
